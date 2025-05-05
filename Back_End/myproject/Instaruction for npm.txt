@@ -1,0 +1,52 @@
+1.follow these steps this necessary for the project executionn
+2.following command are install first 
+====================================================For front End==============================================
+
+npm install @babel/plugin-proposal-private-property-in-object@7.21.11 \
+@emotion/react@11.14.0 \
+@emotion/styled@11.14.0 \
+@mui/material@6.4.2 \
+@testing-library/jest-dom@6.6.3 \
+@testing-library/react@16.2.0 \
+axios@1.7.9 \
+boostrap@2.0.0 \
+bootstrap@5.3.3 \
+cra-template-typescript@1.2.0 \
+jest@27.5.1 \
+react-bootstrap@2.10.8 \
+react-dom@19.0.0 \
+react-feather@2.0.10 \
+react-router-dom@7.1.3 \
+react-scripts@5.0.1 \
+react@19.0.0
+
+follwing type Error are occur then you install the following package
+
+'react-scripts' is not recognized as an internal or external command,
+operable program or batch file.
+
+if node_modele are deleted then you can reinstall the command 
+then reinstall 
+npm install
+
+==============================================================back end Django==========================================================================
+if there is any error of install the command you run the following command
+1.setup the Virtual inviroment for dependencies
+->>>>>>>>>>>>>>>>>>>>
+                    1. python -m venv myenv
+       		    2. myenv\Scripts\activate
+		    3.pip install django-cors-headers
+		    4.pip install django
+
+
+
+
+2.install all packge for testing data Main Libraries
+
+             i.pip install pytorch as pt
+             ii.pip install pillow    
+             iii.pip install numpy 
+	     
+
+
+
